@@ -1,0 +1,9 @@
+T:\#th\c#\PI_AF\PI_AF\PI_AF\obj\Debug\PI_AFDataReferences.csprojResolveAssemblyReference.cache
+T:\#th\c#\PI_AF\PI_AF\PI_AF\obj\Debug\PI_AF.Properties.Resources.resources
+T:\#th\c#\PI_AF\PI_AF\PI_AF\obj\Debug\PI_AF.Sinus.RandomConfigEditor.resources
+T:\#th\c#\PI_AF\PI_AF\PI_AF\obj\Debug\PI_AFDataReferences.csproj.GenerateResource.Cache
+T:\#th\c#\PI_AF\PI_AF\PI_AF\bin\Debug\PI_AF.dll.config
+T:\#th\c#\PI_AF\PI_AF\PI_AF\bin\Debug\PI_AF.dll
+T:\#th\c#\PI_AF\PI_AF\PI_AF\bin\Debug\PI_AF.pdb
+T:\#th\c#\PI_AF\PI_AF\PI_AF\obj\Debug\PI_AF.dll
+T:\#th\c#\PI_AF\PI_AF\PI_AF\obj\Debug\PI_AF.pdb
