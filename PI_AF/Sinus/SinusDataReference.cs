@@ -50,6 +50,7 @@ namespace PI_AF.Sinus
                     return;
                 }
                 this._Config = cfg;
+                SaveConfigChanges(); // must be, or you loose the config string upon PI AF explorer exit
             }
         }
 
